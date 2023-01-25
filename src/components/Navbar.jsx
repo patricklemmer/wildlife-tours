@@ -2,10 +2,6 @@
 // React imports
 import React from 'react'
 
-// Asset imports
-import Instagram from '../images/instagram.png'
-import YouTube from '../images/youtube.png'
-
 export default function Navbar() {
   return (
     <nav className="nav">
