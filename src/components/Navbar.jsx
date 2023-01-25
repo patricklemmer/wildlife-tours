@@ -5,7 +5,7 @@ import React from 'react'
 export default function Navbar() {
   return (
     <nav className="nav">
-      <img src="../src/assets/globe.png" />
+      <img src="../public/assets/globe.png" />
       <h2>
         Wildlife Tours{' '}
         <span className="nav--span"> - my photographic bucket list</span>

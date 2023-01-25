@@ -8,14 +8,14 @@ export default function Card(props) {
       <main className="main--content">
         <div>
           <img
-            src={`../src/assets/${props.card.imageUrl}`}
+            src={`../public/assets/${props.card.imageUrl}`}
             className="card--image"
           />
         </div>
         <div className="card--details">
           <div className="card--location--details">
             <img
-              src={`../src/assets/${props.card.locationIcon}`}
+              src={`../public/assets/${props.card.locationIcon}`}
               className="card--location--icon"
             />
             <p className="card--location">{props.card.location}</p>
