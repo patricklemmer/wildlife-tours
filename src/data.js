@@ -46,7 +46,7 @@ export default [
   },
   {
     id: 4,
-    title: 'Dovrefjell–Sunndalsfjella',
+    title: 'Dovrefjell Sunndalsfjella',
     locationIcon: 'location.png',
     location: 'Norway',
     googleMaps: {
@@ -56,7 +56,7 @@ export default [
     startDate: '22 Sep, 2023',
     endDate: '29 Sep, 2023',
     description:
-      'Dovrefjell–Sunndalsfjella National Park is a National Park in Norway. It was established in 2002 to replace and enlarge the former Dovrefjell National Park which had been established in 1974.',
+      'Dovrefjell Sunndalsfjella National Park is a National Park in Norway. It was established in 2002 to replace and enlarge the former Dovrefjell National Park which had been established in 1974.',
     imageUrl: 'dovrefjell.png',
   },
   {
