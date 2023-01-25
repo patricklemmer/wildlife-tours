@@ -12,7 +12,7 @@ export default [
     endDate: '24 Jan, 2023',
     description:
       "Białowieża Forest is a forest on the border between Belarus and Poland. It is one of the last and largest remaining parts of the immense primeval forest that once stretched across the European Plain. The forest is home to 800 European bison, Europe's heaviest land animal.",
-    imageUrl: 'bialowieza.png',
+    imageUrl: 'bialowieza.jpg',
   },
   {
     id: 2,
@@ -57,7 +57,7 @@ export default [
     endDate: '29 Sep, 2023',
     description:
       'Dovrefjell Sunndalsfjella National Park is a National Park in Norway. It was established in 2002 to replace and enlarge the former Dovrefjell National Park which had been established in 1974.',
-    imageUrl: 'dovrefjell.png',
+    imageUrl: 'dovrefjell.jpg',
   },
   {
     id: 5,
